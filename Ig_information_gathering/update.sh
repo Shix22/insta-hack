@@ -1,17 +1,17 @@
 clear
-echo -e "$Yellow                            processing please wait..>"
+echo -e "$Black                            processing please wait..>"
 sleep 2.0
 clear
-echo -e "$Yellow                            processing please wait...>"
+echo -e "$Black                          processing please wait...>"
 sleep 2.0
 clear
-echo -e "$Yellow                            processing please wait....>"
+echo -e "Black                           processing please wait....>"
 sleep 2.0
 clear
-echo -e "$Yellow                            processing please wait.....>"
+echo -e "$Black                            processing please wait.....>"
 sleep 2.0
 clear
-echo -e "$Yellow                            processing please wait......>"
+echo -e "$Black                            processing please wait......>"
 sleep 2.0
 clear
 echo " "
